@@ -3,3 +3,9 @@ h1{
     text-align: center;
     text-decoration: dashed;
 }
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: tomato;
+}
